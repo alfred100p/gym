@@ -408,9 +408,23 @@ Learn more here: https://github.com/modanesh/anomalous_rl_envs
 
 Fork of gym-retro with additional games, states, scenarios, etc. Open to PRs of additional games, features and plateforms since gym-retro is in maintenance mode.
 
+https://github.com/MatPoliquin/stable-retro
 
 ### CompilerGym
 
 Reinforcement learning environments for compiler optimization tasks, such as LLVM phase ordering, GCC flag tuning, and CUDA loop nest code generation.
 
 Learn more here: https://github.com/facebookresearch/CompilerGym
+
+### LongiControl
+
+An environment for the stochastic longitudinal control of an electric vehicle.
+It is intended to be a descriptive and comprehensible example for a continuous real-world problem within the field of autonomous driving.
+
+Learn more here: https://github.com/dynamik1703/gym_longicontrol
+
+### safe-control-gym
+
+PyBullet-based CartPole and Quadrotor environments—with [CasADi](https://web.casadi.org) (symbolic) *a priori* dynamics and constraints—for learning-based control and model-based reinforcement learning.
+
+Learn more here: https://github.com/utiasDSL/safe-control-gym
